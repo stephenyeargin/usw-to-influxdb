@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    usagewatch (0.0.7)
+    usagewatch_ext (0.2.1)
+      usagewatch (~> 0.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  usagewatch_ext
+
+BUNDLED WITH
+   1.13.7
